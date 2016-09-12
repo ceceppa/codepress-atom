@@ -1,0 +1,19 @@
+{
+  "name": "CodePress",
+  "main": "./lib/codepress-atom",
+  "version": "0.0.0",
+  "description": "CodePress.io atom addon",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "codepress-atom:toggle"
+  },
+  "repository": "https://github.com/atom/codepress-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.3",
+    "request": "^2.69.0"
+  }
+}
