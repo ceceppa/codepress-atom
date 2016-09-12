@@ -1,14 +1,14 @@
 {
   "name": "CodePress",
   "main": "./lib/codepress-atom",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "CodePress.io atom addon",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "codepress-atom:toggle"
   },
-  "repository": "https://github.com/atom/codepress-atom",
-  "license": "MIT",
+  "repository": "https://github.com/ceceppa/codepress-atom",
+  "license": "GPL3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
