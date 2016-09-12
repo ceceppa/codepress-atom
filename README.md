@@ -2,7 +2,7 @@
 
 Generated code into your favourite editor.  
 
-![codepress-atom](cp-atom.png)
+![codepress-atom](https://raw.githubusercontent.com/ceceppa/codepress-atom/master/cp-atom.png)
 
 ## Usage
 
